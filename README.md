@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there, I'm Fathima Ansiya 👋  
 
-<!--
-**Fathima-Ansiya/Fathima-Ansiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌟 Aspiring Data Scientist | RPA Developer | Python Learner  
 
-Here are some ideas to get you started:
+I have **3.5 years of experience in Robotic Process Automation (RPA)** and am currently upskilling in **Data Science** with a focus on Python, Machine Learning, and Data Analytics. My goal is to build a strong portfolio and land a **Data Science role in the UAE**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 **Current Status**
+- 🌱 Currently learning **Python basics** and **Data Science fundamentals**.
+- 🎯 Building my **GitHub portfolio** step by step.  
+- 🧩 Exploring **mini projects** to practice coding and data analysis.  
+
+---
+
+## 🔧 **Skills & Tools** (Learning & Experienced)
+- **Programming:** Python (Learning), SQL  
+- **RPA:** UiPath, RPA Genie (3.5 years experience)  
+- **Version Control:** Git & GitHub (beginner)  
+- **Data Visualization (Coming Soon):** Matplotlib, Seaborn  
+- **Other Tools:** Excel, Power BI (basic)
+
+---
+
+## 📌 **Goals for 2025**
+- Master **Python and Machine Learning**.  
+- Upload at least **5 Data Science mini-projects** to GitHub.  
+- Build a **portfolio for UAE job applications**.  
+
+---
+
+## 📫 **Connect with Me** 
+- **Email:** fathimaansiya10@gmail.com 
+
+---
+
+### 💡 *“Every big dream starts with small, consistent steps.”*
