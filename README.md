@@ -50,7 +50,7 @@ My goal is to build a strong portfolio and land a Data Science role in the UAE.
 
 ## 📫 Connect with Me
 - Email: fathimaansiya10@gmail.com  
-- LinkedIn:   
+- LinkedIn: https://www.linkedin.com/in/fathima-ansiya-pt-0ab77523b  
 - GitHub: https://github.com/Fathima-Ansiya 
 
 ✨ Always curious to learn new skills and improve my Data Science journey step by step!
