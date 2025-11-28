@@ -37,10 +37,7 @@ My goal is to build a strong portfolio and land a Data Science role in the UAE.
 
 ## 📂 Projects
 - **Titanic KNN Prediction:** Beginner ML project predicting survival on the Titanic dataset.  
-- **[Project 2]**: Short description here  
-- **[Project 3]**: Short description here  
 
-> *(Update this list as you add more projects)*
 
 ---
 
